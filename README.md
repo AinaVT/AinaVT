@@ -11,3 +11,10 @@ My name is Aina, I'm a bear vtuber and programmer of questionable quality.
 - 🕹️ I'm currently working on a silly game...
 - 🌱 ...in which I’m also learning Godot.
 - 🏡 I'm currently an iOS Developer IRL.
+
+---
+
+### VAI BRASIL
+
+<img src="./.github/images/brazil-flag.svg" alt="drawing" width="200"/>
+
