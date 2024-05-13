@@ -16,5 +16,5 @@ My name is Aina, I'm a bear vtuber and programmer of questionable quality.
 
 ### VAI BRASIL
 
-<img src="./.github/images/brazil-flag.svg" alt="drawing" width="200"/>
+<img src="https://github.com/AinaVT/AinaVT/blob/main/.github/images/brazil-flag.svg" alt="drawing" width="200"/>
 
